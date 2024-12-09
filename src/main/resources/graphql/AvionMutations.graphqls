@@ -1,0 +1,5 @@
+type Mutation{
+    saveAvion(avion : AvionInput ) : Avion
+    deleteAvion(matricule: String) : Avion
+
+}

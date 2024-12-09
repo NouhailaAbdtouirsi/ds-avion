@@ -1,0 +1,4 @@
+type Avion{
+    model: String
+    price: Int
+}

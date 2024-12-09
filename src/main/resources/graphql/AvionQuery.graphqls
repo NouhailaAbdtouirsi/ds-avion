@@ -1,0 +1,4 @@
+type AvionQuery {
+getAvionByModel(model: String) : Avion
+getAvionByModelAndPrice(model :String, price: Int) : Avion
+}

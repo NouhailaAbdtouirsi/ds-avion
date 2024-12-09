@@ -1,0 +1,5 @@
+input AvionInput{
+    model: String
+    price: Int
+    matricule: String
+}
